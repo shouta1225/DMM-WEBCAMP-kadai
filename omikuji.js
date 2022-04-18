@@ -11,6 +11,7 @@ if(username==""){
 }
 
 let rand = Math.floor(Math.random()*5);
+
 if(rand==0){
   userresult = "大吉";
 }
